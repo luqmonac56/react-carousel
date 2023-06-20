@@ -1,0 +1,28 @@
+{
+    "slides": [
+        {
+            "src": "https://picsum.photos/seed/img1/600/400",
+            "alt": "Image 1 for the carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img3/600/400",
+            "alt": "Image 2 for the carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img6/600/400",
+            "alt": "Image 6 for the carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img7/600/400",
+            "alt": "Image 7 for the carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img9/600/400",
+            "alt": "Image 10 for the carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img4/600/400",
+            "alt": "Image 3 for the carousel"
+        }
+    ]
+}

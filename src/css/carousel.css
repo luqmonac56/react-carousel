@@ -1,0 +1,46 @@
+.slide{
+    border-radius: .5rem;
+    box-shadow: 0 0 7px #666;
+    width:  100%;
+    height:  100%;
+}
+
+.slide-hidden{
+    display: none;
+}
+
+.arrow{
+    position: absolute;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    filter: drop-shadow(0 0 5px #555);
+}
+
+.arrow-left{
+    left: 1rem;
+}
+.arrow-right{
+    right: 1rem;
+}
+
+.indicators{
+    display: flex;
+    position: absolute;
+    bottom: 1rem;
+}
+
+.indicator{
+    background-color: #fff;
+    border-radius: 100%;
+    border: none;
+    outline: none;
+    height: .5rem;
+    width: .5rem;
+    box-shadow: 0  0 5px #555;
+    margin: 0 .2rem;
+    cursor: pointer;
+}
+
+.indicator-inactive{
+    background: gray;
+}
